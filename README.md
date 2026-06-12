@@ -229,6 +229,3 @@ O checklist fiscal/LGPD/operacional esta em:
 docs/COMERCIAL_COMPLIANCE.md
 ```
 
-## Observacoes para venda real
-
-SQLite continua disponivel para piloto, demonstracao comercial e instalacao local pequena. Para SaaS ou cliente comercial em nuvem, use `DATABASE_URL` com PostgreSQL, Caddy/HTTPS, backups automaticos e monitoramento em `/api/health`, `/api/ready` e `/api/metrics`.
