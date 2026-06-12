@@ -1,0 +1,21 @@
+{
+  "name": "MesaPro",
+  "short_name": "MesaPro",
+  "description": "Operacao de salao, pedidos, cozinha e conta para restaurantes.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#17202a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "food", "productivity"],
+  "lang": "pt-BR"
+}
